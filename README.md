@@ -1,4 +1,4 @@
-# 🧤 Smart Glove — ASL to English Translation
+# Smart Glove — ASL to English Translation
 
 > A wearable, sensor-based smart glove that recognizes American Sign Language (ASL) hand gestures and converts them into readable English letters and words in real time.
 
@@ -12,7 +12,7 @@ The glove captures hand and finger movements using multiple sensors connected to
 
 Recognized gestures are converted into corresponding **English letters**, which are then sequentially combined to form **readable words**.
 
-### 🔄 System Pipeline
+###  System Pipeline
 
 ```text
 Hand Gesture
